@@ -1,0 +1,21 @@
+id,name,city,capacity,occupied,latitude,longitude
+1,Bandra Kurla Relief Camp,Mumbai,2000,850,19.0596,72.8656
+2,Dharavi Flood Shelter,Mumbai,1500,620,19.0432,72.8520
+3,Chhatrapati Shivaji Stadium Shelter,Mumbai,3000,1100,19.0760,72.8777
+4,Yamuna Flood Relief Camp,Delhi,2500,980,28.6692,77.2384
+5,Pragati Maidan Emergency Shelter,Delhi,4000,1560,28.6186,77.2413
+6,Rohini Disaster Relief Center,Delhi,1800,640,28.7206,77.1154
+7,Shivajinagar Relief Camp,Pune,1200,430,18.5308,73.8474
+8,Hadapsar Flood Shelter,Pune,900,290,18.4961,73.9319
+9,VNIT Relief Center Nagpur,Nagpur,1100,320,21.1369,79.0518
+10,Kamptee Road Shelter,Nagpur,800,210,21.1667,79.1033
+11,Kanteerava Stadium Shelter,Bengaluru,2000,720,12.9793,77.5891
+12,Whitefield Relief Camp,Bengaluru,1500,490,12.9698,77.7499
+13,YMCA Ground Shelter Chennai,Chennai,2200,890,13.0602,80.2449
+14,Velachery Flood Relief Camp,Chennai,1800,660,12.9778,80.2216
+15,LB Nagar Emergency Shelter,Hyderabad,1600,530,17.3483,78.5494
+16,Kukatpally Relief Center,Hyderabad,2000,810,17.4947,78.3996
+17,Salt Lake Shelter Kolkata,Kolkata,1700,590,22.5812,88.4298
+18,Howrah Bridge Relief Camp,Kolkata,2500,1050,22.5851,88.3467
+19,Brahmand Relief Center Mumbai,Mumbai,1000,340,19.1665,72.9694
+20,Anna Nagar Shelter Chennai,Chennai,1300,420,13.0850,80.2101

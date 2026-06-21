@@ -1,0 +1,31 @@
+id,resource_name,resource_type,status,quantity,city,latitude,longitude
+1,NDRF Rescue Boat MH-01,Boat,Available,2,Mumbai,19.0760,72.8777
+2,NDRF Rescue Boat MH-02,Boat,Available,1,Mumbai,19.0596,72.8656
+3,Coast Guard Inflatable Boat KL-01,Boat,Busy,3,Mumbai,18.9220,72.8347
+4,SDRF Flood Boat WB-01,Boat,Available,2,Kolkata,22.5726,88.3639
+5,SDRF Flood Boat WB-02,Boat,Available,1,Kolkata,22.5851,88.3467
+6,NDRF Motor Boat TN-01,Boat,Maintenance,2,Chennai,13.0827,80.2707
+7,River Rescue Boat OR-01,Boat,Available,4,Kolkata,22.6049,88.3441
+8,Flood Rescue Boat KA-01,Boat,Available,2,Bengaluru,12.9716,77.5946
+9,Emergency Boat MH-03,Boat,Busy,1,Mumbai,19.2183,72.9781
+10,Patrol Boat AP-01,Boat,Available,3,Hyderabad,17.3850,78.4867
+11,CATS Ambulance MH-001,Ambulance,Available,1,Mumbai,19.0760,72.8777
+12,108 Emergency Ambulance DL-001,Ambulance,Busy,1,Delhi,28.6139,77.2090
+13,CATS Ambulance KA-001,Ambulance,Available,1,Bengaluru,12.9716,77.5946
+14,GVK EMRI Ambulance TN-001,Ambulance,Available,1,Chennai,13.0827,80.2707
+15,108 Ambulance TS-001,Ambulance,Maintenance,1,Hyderabad,17.3850,78.4867
+16,NDRF Medical Team MH-Alpha,Medical Team,Available,12,Mumbai,19.0760,72.8777
+17,Army Medical Corps Team DL-Bravo,Medical Team,Busy,15,Delhi,28.6139,77.2090
+18,AIIMS Rapid Response Team DL-Charlie,Medical Team,Available,8,Delhi,28.5672,77.2100
+19,Civil Medical Team KA-Delta,Medical Team,Available,10,Bengaluru,12.9716,77.5946
+20,GMCH Medical Team MH-Echo,Medical Team,Available,10,Nagpur,21.1458,79.0882
+21,NDRF Rescue Team MH-1,Rescue Team,Available,25,Mumbai,19.0760,72.8777
+22,SDRF Rescue Team WB-1,Rescue Team,Busy,20,Kolkata,22.5726,88.3639
+23,NDRF Rescue Team DL-1,Rescue Team,Available,25,Delhi,28.6139,77.2090
+24,Fire & Rescue Team TN-1,Rescue Team,Available,18,Chennai,13.0827,80.2707
+25,NDRF Rescue Team TS-1,Rescue Team,Maintenance,22,Hyderabad,17.3850,78.4867
+26,NDRF 5th Bn Unit-A,NDRF Unit,Available,45,Pune,18.5204,73.8567
+27,NDRF 8th Bn Unit-B,NDRF Unit,Busy,45,Delhi,28.6139,77.2090
+28,NDRF 2nd Bn Unit-C,NDRF Unit,Available,45,Kolkata,22.5726,88.3639
+29,NDRF 4th Bn Unit-D,NDRF Unit,Available,45,Chennai,13.0827,80.2707
+30,NDRF 12th Bn Unit-E,NDRF Unit,Available,45,Mumbai,19.0760,72.8777

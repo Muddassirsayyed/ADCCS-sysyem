@@ -1,0 +1,21 @@
+id,name,city,total_beds,available_beds,latitude,longitude
+1,KEM Hospital,Mumbai,1800,320,19.0018,72.8425
+2,Nair Hospital,Mumbai,1200,210,19.0037,72.8379
+3,Sion Hospital,Mumbai,1500,280,19.0440,72.8647
+4,AIIMS Delhi,Delhi,2478,410,28.5672,77.2100
+5,Safdarjung Hospital,Delhi,1531,265,28.5676,77.2060
+6,Ram Manohar Lohia Hospital,Delhi,1532,310,28.6319,77.2090
+7,Sassoon General Hospital,Pune,1400,230,18.5204,73.8567
+8,Ruby Hall Clinic,Pune,450,95,18.5362,73.8956
+9,Government Medical College Nagpur,Nagpur,1200,185,21.1458,79.0882
+10,Lata Mangeshkar Hospital,Nagpur,350,72,21.1630,79.1090
+11,Victoria Hospital Bengaluru,Bengaluru,1300,198,12.9716,77.5946
+12,Bowring and Lady Curzon Hospital,Bengaluru,850,130,12.9784,77.6408
+13,Kidwai Memorial Institute,Bengaluru,500,88,12.9352,77.5942
+14,Rajiv Gandhi Government General Hospital,Chennai,2700,450,13.0827,80.2707
+15,Stanley Medical College Hospital,Chennai,2500,380,13.1067,80.2906
+16,Gandhi Hospital Hyderabad,Hyderabad,1900,310,17.4065,78.4772
+17,Osmania General Hospital,Hyderabad,1200,195,17.3616,78.4747
+18,SSKM Hospital Kolkata,Kolkata,1850,290,22.5354,88.3401
+19,NRS Medical College,Kolkata,1200,215,22.5580,88.3510
+20,RG Kar Medical College,Kolkata,1100,175,22.6017,88.3852

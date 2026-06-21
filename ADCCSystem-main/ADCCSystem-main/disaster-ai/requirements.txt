@@ -1,0 +1,67 @@
+# AI & Agents
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Environment Variables
+python-dotenv
+
+# Logging
+loguru
+
+# HTTP Requests
+requests
+aiohttp
+
+# Web Scraping
+beautifulsoup4
+lxml
+newspaper3k
+
+# Search
+tavily-python
+
+# Frontend (Streamlit)
+streamlit
+
+# Vector DB
+chromadb
+
+# Data Processing
+pandas
+numpy
+
+# Scheduling
+apscheduler
+
+# Maps & Geospatial
+folium
+streamlit-folium
+
+# Notifications
+twilio
+
+# Testing
+pytest
+httpx
+
+# Utilities
+python-dateutil
+
+# APIs
+newsapi-python

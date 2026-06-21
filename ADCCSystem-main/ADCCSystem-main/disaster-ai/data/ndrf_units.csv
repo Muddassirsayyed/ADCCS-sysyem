@@ -1,0 +1,11 @@
+id,battalion_name,battalion_number,city,state,headquarters,personnel_count,contact,latitude,longitude,status
+1,1st NDRF Battalion,1,Guwahati,Assam,Guwahati NDRF Campus,1149,0361-2345678,26.1445,91.7362,Active
+2,2nd NDRF Battalion,2,Kolkata,West Bengal,Kolkata NDRF Camp,1149,033-23456789,22.5726,88.3639,Active
+3,3rd NDRF Battalion,3,Mundali,Odisha,Mundali Base Camp,1149,0671-2345678,20.4625,85.8830,Active
+4,4th NDRF Battalion,4,Arakkonam,Tamil Nadu,Arakkonam NDRF Base,1149,04177-234567,13.0827,79.6755,Active
+5,5th NDRF Battalion,5,Pune,Maharashtra,Talegaon NDRF Camp,1149,020-23456789,18.5204,73.8567,Active
+6,6th NDRF Battalion,6,Vadodara,Gujarat,Vadodara NDRF Camp,1149,0265-2345678,22.3072,73.1812,Active
+7,8th NDRF Battalion,8,Ghaziabad,Uttar Pradesh,Ghaziabad NDRF Base,1149,0120-2345678,28.6692,77.4538,Active
+8,9th NDRF Battalion,9,Patna,Bihar,Patna NDRF Campus,1149,0612-2345678,25.5941,85.1376,Active
+9,12th NDRF Battalion,12,Mumbai,Maharashtra,Mumbai NDRF Base,1149,022-23456789,19.0760,72.8777,Active
+10,13th NDRF Battalion,13,Hyderabad,Telangana,Hyderabad NDRF Camp,1149,040-23456789,17.3850,78.4867,Active
